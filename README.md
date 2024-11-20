@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Paul!
+
+#### I am a master's student in embedded systems at [TU Wien](https://www.tuwien.at/en/) and am currently doing an exchange at [UPC](https://www.fib.upc.edu/en) in Barcelona.
+
+- 🎓 My background is in computer engineering and embedded systems.  
+- ⚙️ My main interest is HDL development for FPGA, especially designing custom accelerators and processor extensions.
+- 📊 I also have experience in Machine Vision and AI, working primarily with Python and Pytorch.
+- 🌱 I'm currently focusing on high-performance computing.
+
+Feel free to connect or check out my projects here!
+
 
 <!--
 **paulp2302/paulp2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
